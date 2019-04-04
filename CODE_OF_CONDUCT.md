@@ -13,7 +13,7 @@ page.
 ## Project Specific Etiquette
 
 See the [Contributing Guide][cg] for code standards, and the
-[Bugzilla Developer Etiquette Guidelines](bdeg) for general tips for being a
+[Bugzilla Developer Etiquette Guidelines][bdeg] for general tips for being a
 helpful participant in an open source project.
 
 [cg]: https://github.com/mozilla/kuma/blob/master/CONTRIBUTING.md
